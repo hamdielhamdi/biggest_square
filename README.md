@@ -1,7 +1,7 @@
 ## Find largest subsquare in 2D array
 
 ### assumption 
-For more clarity, you can find bellow the mathematical description of the probleme from wikipidia.
+For more clarity, you can find below the mathematical description of the problem from wikipedia. 
 
 * Probleme assumption :  https://en.wikipedia.org/wiki/Maximum_subarray_problem
 
