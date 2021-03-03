@@ -1,4 +1,4 @@
-## Find largest subsquare in 2D array
+## Largest subsquare 
 
 ### assumption 
 For more clarity, you can find below the mathematical description of the problem from wikipedia. 
